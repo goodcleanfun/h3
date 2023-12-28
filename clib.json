@@ -1,6 +1,6 @@
 {
   "name": "h3",
-  "version": "v4.1.0",
+  "version": "master",
   "repo": "uber/h3",
   "description": "Hexagonal hierarchical geospatial indexing system",
   "keywords": ["geospatial", "hexagonal", "grid", "indexing"],
